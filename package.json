@@ -1,0 +1,13 @@
+{
+  "name": "lang-apache",
+  "main": "./lib/lang-apache",
+  "version": "0.0.0",
+  "description": "Syntax highlight for Apache configuration files",
+  "keywords": ["Inkdrop", "CodeMirror", "Apache"],
+  "repository": "https://github.com/inkdropapp/lang-apache",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
