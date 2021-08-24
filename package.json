@@ -6,7 +6,7 @@
   "keywords": ["Inkdrop", "CodeMirror", "Apache"],
   "repository": {
     "type": "git",
-    "url": "git@github.com:inkdropapp/inkdrop-lang-apache.git"
+    "url": "git+https://github.com/inkdropapp/inkdrop-lang-apache.git"
   },
   "license": "MIT",
   "engines": {
