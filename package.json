@@ -4,7 +4,10 @@
   "version": "0.0.0",
   "description": "Syntax highlight for Apache configuration files",
   "keywords": ["Inkdrop", "CodeMirror", "Apache"],
-  "repository": "https://github.com/inkdropapp/lang-apache",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:inkdropapp/inkdrop-lang-apache.git"
+  },
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
